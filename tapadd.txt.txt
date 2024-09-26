@@ -1,3 +1,5 @@
 test new file 
 s
 lần 2
+lần 3
+lần 3 1
