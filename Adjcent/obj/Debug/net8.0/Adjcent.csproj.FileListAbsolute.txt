@@ -1,0 +1,14 @@
+C:\Users\LAPTOP AK\Desktop\oop c#\Adjcent\Adjcent\bin\Debug\net8.0\Adjcent.exe
+C:\Users\LAPTOP AK\Desktop\oop c#\Adjcent\Adjcent\bin\Debug\net8.0\Adjcent.deps.json
+C:\Users\LAPTOP AK\Desktop\oop c#\Adjcent\Adjcent\bin\Debug\net8.0\Adjcent.runtimeconfig.json
+C:\Users\LAPTOP AK\Desktop\oop c#\Adjcent\Adjcent\bin\Debug\net8.0\Adjcent.dll
+C:\Users\LAPTOP AK\Desktop\oop c#\Adjcent\Adjcent\bin\Debug\net8.0\Adjcent.pdb
+C:\Users\LAPTOP AK\Desktop\oop c#\Adjcent\Adjcent\obj\Debug\net8.0\Adjcent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP AK\Desktop\oop c#\Adjcent\Adjcent\obj\Debug\net8.0\Adjcent.AssemblyInfoInputs.cache
+C:\Users\LAPTOP AK\Desktop\oop c#\Adjcent\Adjcent\obj\Debug\net8.0\Adjcent.AssemblyInfo.cs
+C:\Users\LAPTOP AK\Desktop\oop c#\Adjcent\Adjcent\obj\Debug\net8.0\Adjcent.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP AK\Desktop\oop c#\Adjcent\Adjcent\obj\Debug\net8.0\Adjcent.dll
+C:\Users\LAPTOP AK\Desktop\oop c#\Adjcent\Adjcent\obj\Debug\net8.0\refint\Adjcent.dll
+C:\Users\LAPTOP AK\Desktop\oop c#\Adjcent\Adjcent\obj\Debug\net8.0\Adjcent.pdb
+C:\Users\LAPTOP AK\Desktop\oop c#\Adjcent\Adjcent\obj\Debug\net8.0\Adjcent.genruntimeconfig.cache
+C:\Users\LAPTOP AK\Desktop\oop c#\Adjcent\Adjcent\obj\Debug\net8.0\ref\Adjcent.dll
